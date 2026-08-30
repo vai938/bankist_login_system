@@ -8,7 +8,7 @@ An interactive digital banking web application built with vanilla JavaScript. It
 
 ## 📸 Preview
 
-![Bankist Dashboard Preview](preview.png)
+![Bankist Dashboard Preview](Preview.png)
 *(Ensure your screenshot filename in the root directory matches `preview.png`, or update the filename above.)*
 
 ---
