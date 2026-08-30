@@ -2,6 +2,15 @@
 
 An interactive digital banking web application built with vanilla JavaScript. It simulates real-world banking operations, including client-side credential authentication, real-time fund transfers, loan requests, account closures, dynamic transaction filtering, and inactivity session timers.
 
+🌐 **Live Interactive Demo:** [vai938.github.io/bankist_login_system](https://vai938.github.io/bankist_login_system/)
+
+---
+
+## 📸 Preview
+
+![Bankist Dashboard Preview](preview.png)
+*(Ensure your screenshot filename in the root directory matches `preview.png`, or update the filename above.)*
+
 ---
 
 ## 📌 Table of Contents
@@ -54,6 +63,7 @@ To test the application, log in with the following default credentials:
 - **Styling:** CSS3 (Custom properties, Flexbox, Grid, transitions)
 - **Logic & State Management:** Vanilla JavaScript (ES6+)
 - **APIs & Web Features:** Internationalization API (`Intl`), DOM API, JavaScript Timers (`setInterval` / `clearInterval`)
+- **Deployment:** GitHub Pages
 
 ---
 
@@ -73,5 +83,6 @@ bankist_login_system/
 ├── index.html        # Core banking dashboard and login layout
 ├── style.css         # UI styling, responsive rules, and animations
 ├── script.js         # State management, calculations, and event handlers
+├── preview.png       # Root dashboard preview image
 │
 └── README.md         # Repository documentation
